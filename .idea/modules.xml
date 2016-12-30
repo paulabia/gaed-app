@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gaed-app.iml" filepath="$PROJECT_DIR$/gaed-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gaed-model/gaed-model.iml" filepath="$PROJECT_DIR$/gaed-model/gaed-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gaed-web/gaed-web.iml" filepath="$PROJECT_DIR$/gaed-web/gaed-web.iml" />
+    </modules>
+  </component>
+</project>

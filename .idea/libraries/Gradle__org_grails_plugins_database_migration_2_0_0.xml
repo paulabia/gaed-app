@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.grails.plugins:database-migration:2.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/database-migration/2.0.0/aafe879e056f3de7f99674ffd0dce2d7b625b70a/database-migration-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/database-migration/2.0.0/f6618d612b1bcec5b916110bb09598a73648ad12/database-migration-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
